@@ -1,3 +1,3 @@
 # test
 This is a test file
-bla bla
+this is the second line of my test file
